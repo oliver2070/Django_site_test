@@ -1,1 +1,2 @@
-print ("tfhdfhdfh")
+z=print ("tfhdfhdfh")
+z
