@@ -1,2 +1,3 @@
 # Django site
-123
+*development_mysite
+*master
